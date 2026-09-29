@@ -26,19 +26,21 @@ Pipeline de dados ponta a ponta em arquitetura medalhão (Bronze → Silver → 
 
 ---
 
-### [Dream Ice Dashboard](https://github.com/herberthalvees/shop-ice-dashboard)
-Painel full-stack para gestão de uma operação de e-commerce multi-loja em um marketplace: pedidos, estoque, financeiro, campanhas de ads, avaliações e atendimento ao cliente, com sincronização automática via API.
+### Painel de Gestão para E-commerce Multi-loja *(projeto privado)*
+Painel full-stack para gestão de uma operação de e-commerce multi-loja: pedidos, estoque, financeiro, campanhas de ads, avaliações e atendimento ao cliente, com sincronização automática via API.
 
-- Arquitetura full-stack sem backend separado — SSR, rotas de API e server functions no mesmo app (TanStack Start)
-- Sincronização automática por jobs agendados (`pg_cron`) e webhooks autenticados por assinatura HMAC
-- Suporte a múltiplas lojas, cada uma com credenciais isoladas e dados segregados por RLS no banco
+- Arquitetura full-stack sem backend separado — SSR, rotas de API e server functions no mesmo app
+- Sincronização automática por jobs agendados e webhooks autenticados
+- Suporte a múltiplas lojas, cada uma com credenciais isoladas e dados segregados por controle de acesso no banco
 - Chat interno com IA que responde perguntas de negócio consultando os dados reais do painel
 
 **Tecnologias:** `React` `TypeScript` `TanStack Start` `Supabase/PostgreSQL` `Tailwind CSS` `IA`
 
+*Repositório privado — código não disponível publicamente.*
+
 ---
 
-### [Portal Corporativo de Consulta a Data Warehouse](https://github.com/herberthalvees/otg-datahub-hub)
+### Portal Corporativo de Consulta a Data Warehouse *(projeto privado)*
 Portal seguro de autoatendimento a dados no Google BigQuery: a pessoa pergunta em linguagem natural e recebe uma resposta usando apenas os dados que tem permissão de ver.
 
 - Autenticação corporativa via Google OIDC, com validação completa do token no backend (assinatura, emissor, expiração, domínio)
@@ -47,6 +49,8 @@ Portal seguro de autoatendimento a dados no Google BigQuery: a pessoa pergunta e
 - Camada semântica com catálogo de métricas versionado e trilha de auditoria *append-only*
 
 **Tecnologias:** `TypeScript` `React` `TanStack Start` `Google BigQuery` `PostgreSQL` `IA`
+
+*Repositório privado — código não disponível publicamente.*
 
 ## 📫 Contato
 
