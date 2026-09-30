@@ -37,6 +37,8 @@ Painel full-stack para gestão de uma operação de e-commerce multi-loja: pedid
 
 **Tecnologias:** `React` `TypeScript` `TanStack Start` `Supabase/PostgreSQL` `Tailwind CSS` `IA` `n8n`
 
+🔗 **[Ver demo ao vivo](https://dreamice.shop)** — clique em "Conta demo (dados fictícios)" na tela inicial para explorar o painel com dados de exemplo, sem acesso a informações reais do negócio.
+
 ## 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/herberth-alves-dados/) | herberthalvesc@gmail.com
