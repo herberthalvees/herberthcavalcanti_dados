@@ -33,8 +33,9 @@ Painel full-stack para gestão de uma operação de e-commerce multi-loja: pedid
 - Sincronização automática por jobs agendados e webhooks autenticados
 - Suporte a múltiplas lojas, cada uma com credenciais isoladas e dados segregados por controle de acesso no banco
 - Chat interno com IA que responde perguntas de negócio consultando os dados reais do painel
+- Resumo diário do negócio (faturamento, pedidos, custos e lucro) enviado automaticamente por WhatsApp via job agendado, além de notificações push de novos pedidos e mensagens de clientes
 
-**Tecnologias:** `React` `TypeScript` `TanStack Start` `Supabase/PostgreSQL` `Tailwind CSS` `IA`
+**Tecnologias:** `React` `TypeScript` `TanStack Start` `Supabase/PostgreSQL` `Tailwind CSS` `IA` `n8n`
 
 ## 📫 Contato
 
