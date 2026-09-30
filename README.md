@@ -6,11 +6,11 @@ Analista de Dados / Engenheiro de Dados com mais de 4 anos de experiência em BI
 
 ## 🛠️ Stack
 
-**Dados e BI:** SQL, Power BI, DAX, Power Query, Modelagem Dimensional, RLS
-**Engenharia de dados:** Python, PySpark, Databricks, Delta Lake, dbt, Apache Airflow, ETL/ELT
-**Cloud e plataformas analíticas:** Google BigQuery, GCP (Cloud Storage), AWS, Supabase/PostgreSQL
-**Full-stack:** React, TypeScript, TanStack Start
-**Versionamento e DevOps:** Git, GitHub, GitLab, Azure DevOps
+- **Dados e BI:** SQL, Power BI, DAX, Power Query, Modelagem Dimensional, RLS
+- **Engenharia de dados:** Python, PySpark, Databricks, Delta Lake, dbt, Apache Airflow, ETL/ELT
+- **Cloud e plataformas analíticas:** Google BigQuery, GCP (Cloud Storage), AWS, Supabase/PostgreSQL
+- **Full-stack (com apoio de IA generativa — *vibe coding*):** React, TypeScript, TanStack Start
+- **Versionamento e DevOps:** Git, GitHub, GitLab, Azure DevOps
 
 ## 🚀 Projetos em destaque
 
@@ -26,7 +26,7 @@ Pipeline de dados ponta a ponta em arquitetura medalhão (Bronze → Silver → 
 
 ---
 
-### Painel de Gestão para E-commerce Multi-loja *(projeto privado)*
+### [Painel de Gestão para E-commerce Multi-loja](https://github.com/herberthalvees/shop-ice-dashboard)
 Painel full-stack para gestão de uma operação de e-commerce multi-loja: pedidos, estoque, financeiro, campanhas de ads, avaliações e atendimento ao cliente, com sincronização automática via API.
 
 - Arquitetura full-stack sem backend separado — SSR, rotas de API e server functions no mesmo app
@@ -35,8 +35,6 @@ Painel full-stack para gestão de uma operação de e-commerce multi-loja: pedid
 - Chat interno com IA que responde perguntas de negócio consultando os dados reais do painel
 
 **Tecnologias:** `React` `TypeScript` `TanStack Start` `Supabase/PostgreSQL` `Tailwind CSS` `IA`
-
-*Repositório privado — código não disponível publicamente.*
 
 ---
 
@@ -54,4 +52,4 @@ Portal seguro de autoatendimento a dados no Google BigQuery: a pessoa pergunta e
 
 ## 📫 Contato
 
-[LinkedIn](https://linkedin.com/in/seu-perfil) | seu.email@exemplo.com
+[LinkedIn](https://www.linkedin.com/in/herberth-alves-dados/) | herberthalvesc@gmail.com
