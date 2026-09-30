@@ -36,20 +36,6 @@ Painel full-stack para gestão de uma operação de e-commerce multi-loja: pedid
 
 **Tecnologias:** `React` `TypeScript` `TanStack Start` `Supabase/PostgreSQL` `Tailwind CSS` `IA`
 
----
-
-### Portal Corporativo de Consulta a Data Warehouse *(projeto privado)*
-Portal seguro de autoatendimento a dados no Google BigQuery: a pessoa pergunta em linguagem natural e recebe uma resposta usando apenas os dados que tem permissão de ver.
-
-- Autenticação corporativa via Google OIDC, com validação completa do token no backend (assinatura, emissor, expiração, domínio)
-- Controle de acesso em duas camadas — RBAC (papéis e permissões) + ABAC (atributos que filtram linhas, ex.: região)
-- Perguntas em linguagem natural viram uma consulta estruturada e controlada — nunca SQL livre vindo do usuário
-- Camada semântica com catálogo de métricas versionado e trilha de auditoria *append-only*
-
-**Tecnologias:** `TypeScript` `React` `TanStack Start` `Google BigQuery` `PostgreSQL` `IA`
-
-*Repositório privado — código não disponível publicamente.*
-
 ## 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/herberth-alves-dados/) | herberthalvesc@gmail.com
